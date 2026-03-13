@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5a76c2c-ec10-4fe9-b031-e6370a3fbf5a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yJapAcy0uun8LBdW0vU5dzaHG6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.matrix.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.matrix2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.pointer basic.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rotate.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.search.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.spiral.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.wave.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.pointer basic.cpp">
+    <configuration name="pointer basic.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pointers adn Recursion" TARGET_NAME="pointer basic.cpp" CONFIG_NAME="pointer basic.cpp">
+      <option name="sourceFile" value="pointer basic.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotate.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="New folder" TARGET_NAME="rotate.cpp" CONFIG_NAME="rotate.cpp">
+      <option name="sourceFile" value="rotate.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="New folder" TARGET_NAME="search.cpp" CONFIG_NAME="search.cpp">
+      <option name="sourceFile" value="search.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spiral.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="New folder" TARGET_NAME="spiral.cpp" CONFIG_NAME="spiral.cpp">
+      <option name="sourceFile" value="spiral.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="New folder" TARGET_NAME="wave.cpp" CONFIG_NAME="wave.cpp">
+      <option name="sourceFile" value="wave.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.pointer basic.cpp" />
+        <item itemvalue="C/C++ File.search.cpp" />
+        <item itemvalue="C/C++ File.rotate.cpp" />
+        <item itemvalue="C/C++ File.spiral.cpp" />
+        <item itemvalue="C/C++ File.wave.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5a76c2c-ec10-4fe9-b031-e6370a3fbf5a" name="Changes" comment="" />
+      <created>1749555312549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749555312549</updated>
+      <workItem from="1749555315089" duration="52000" />
+      <workItem from="1749555506093" duration="800000" />
+      <workItem from="1749557667928" duration="494000" />
+      <workItem from="1749558514131" duration="34000" />
+      <workItem from="1749575270302" duration="1925000" />
+      <workItem from="1749579333547" duration="2238000" />
+      <workItem from="1749638168548" duration="2680000" />
+      <workItem from="1749651816700" duration="3015000" />
+      <workItem from="1749672538069" duration="3518000" />
+      <workItem from="1749678932222" duration="3528000" />
+      <workItem from="1749726729329" duration="1189000" />
+      <workItem from="1749760370431" duration="305000" />
+      <workItem from="1749814207811" duration="596000" />
+      <workItem from="1750790599754" duration="28000" />
+      <workItem from="1751057508711" duration="4000" />
+      <workItem from="1752068951587" duration="189000" />
+      <workItem from="1752087989321" duration="2638000" />
+      <workItem from="1752092966352" duration="1714000" />
+      <workItem from="1752395836606" duration="3082000" />
+      <workItem from="1752493150364" duration="597000" />
+      <workItem from="1752511069339" duration="4097000" />
+      <workItem from="1752583250394" duration="2608000" />
+      <workItem from="1752684911508" duration="2520000" />
+      <workItem from="1752755036843" duration="3198000" />
+      <workItem from="1752804382376" duration="390000" />
+      <workItem from="1753089858773" duration="933000" />
+      <workItem from="1753206211488" duration="1087000" />
+      <workItem from="1753269238357" duration="2516000" />
+      <workItem from="1753385143080" duration="27000" />
+      <workItem from="1753481580935" duration="387000" />
+      <workItem from="1753559605539" duration="3000" />
+      <workItem from="1755953113588" duration="20000" />
+      <workItem from="1755953181443" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

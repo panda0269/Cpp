@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.16)
+project(CPP_Folder)
+set(CMAKE_CXX_STANDARD 20)
+
+# Add all subdirectories inside C++
+add_subdirectory("2-D array")
+add_subdirectory("Array")
+add_subdirectory("hashing and hashmap")
+add_subdirectory("maths adv")
+add_subdirectory("Other")
+add_subdirectory("pattern")
+add_subdirectory("Pointers adn Recursion")
+add_subdirectory("Queue")
+add_subdirectory("Recursion")
+add_subdirectory("String")
+add_subdirectory("trees")
